@@ -1,7 +1,7 @@
 {
     "name": "digitallandes/cakephp-datatables",
     "description": "jQuery DataTables for CakePHP 4",
-    "homepage": "https://github.com/ypnos-web/cakephp-datatables",
+    "homepage": "https://github.com/DigitalLandes/cakephp-datatables",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "datatables"],
     "license": "MIT",
